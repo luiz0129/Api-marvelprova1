@@ -1,0 +1,10 @@
+*{
+    text-decoration: none;
+}
+body{
+    text-align: center;
+    color: #FFF;
+    background-image: url(../img/marvelBackground\ \(1\).gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
